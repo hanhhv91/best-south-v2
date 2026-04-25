@@ -1,16 +1,32 @@
+import { useTranslations } from 'next-intl';
+import { getTranslations } from 'next-intl/server';
+import type { Metadata } from 'next';
+
+export async function generateMetadata({ params }: { params: Promise<{ locale: string }> }): Promise<Metadata> {
+  const { locale } = await params;
+  const t = await getTranslations({ locale, namespace: 'metadata' });
+
+  return {
+    title: t('about.title'),
+    description: t('about.description'),
+  };
+}
+
 export default function About() {
+  const t = useTranslations('about');
+
   return (
     <div className="min-h-screen py-section-padding">
       <div className="max-w-[1280px] mx-auto px-8">
         <div className="mb-12">
-          <h1 className="font-h1 text-h1 text-center text-navy mb-6">Giới thiệu về Best South</h1>
+          <h1 className="font-h1 text-h1 text-center text-navy mb-6">{t('title')}</h1>
           <div className="w-20 h-1 bg-primary mx-auto"></div>
         </div>
 
         {/* Hero Image */}
         <div className="mb-16 relative">
           <div className="absolute -top-4 -left-4 w-24 h-24 bg-primary/10"></div>
-          <img className="relative z-10 w-full h-96 object-cover shadow-xl" src="/company-overview.jpg" alt="Tổng quan công ty Best South" />
+          <img className="relative z-10 w-full h-96 object-cover shadow-xl" src="/company-overview.jpg" alt={t('title')} />
           <div className="absolute -bottom-4 -right-4 w-full h-full border-2 border-navy/20 translate-x-4 translate-y-4"></div>
         </div>
 
@@ -18,17 +34,17 @@ export default function About() {
         <section className="mb-16">
           <div className="grid lg:grid-cols-2 gap-16 items-center">
             <div>
-              <span className="text-primary font-label-caps tracking-widest block mb-4">LỊCH SỬ</span>
-              <h2 className="font-h2 text-h2 text-navy mb-6">Hành trình Phát triển 15 Năm</h2>
+              <span className="text-primary font-label-caps tracking-widest block mb-4">{t('history.label')}</span>
+              <h2 className="font-h2 text-h2 text-navy mb-6">{t('history.title')}</h2>
               <p className="font-body-lg text-body-lg text-on-surface-variant mb-6">
-                Thành lập từ năm 2009, Best South đã trải qua hơn 15 năm phát triển không ngừng. Chúng tôi bắt đầu với một đội ngũ nhỏ nhưng đầy nhiệt huyết, và dần trở thành một trong những công ty xây dựng hàng đầu tại Việt Nam.
+                {t('history.description1')}
               </p>
               <p className="font-body-lg text-body-lg text-on-surface-variant">
-                Qua các năm, chúng tôi đã hoàn thành hàng trăm dự án lớn nhỏ, từ nhà ở dân dụng đến các tòa nhà thương mại cao cấp, góp phần vào sự phát triển đô thị của đất nước.
+                {t('history.description2')}
               </p>
             </div>
             <div className="relative">
-              <img className="w-full h-auto shadow-xl" src="/company-history.jpg" alt="Lịch sử phát triển" />
+              <img className="w-full h-auto shadow-xl" src="/company-history.jpg" alt={t('history.title')} />
             </div>
           </div>
         </section>
@@ -37,22 +53,22 @@ export default function About() {
         <section className="mb-16 bg-surface-gray py-section-padding -mx-8 px-8">
           <div className="max-w-[1280px] mx-auto">
             <div className="text-center mb-12">
-              <h2 className="font-h2 text-h2 text-navy mb-4">Sứ mệnh & Tầm nhìn</h2>
+              <h2 className="font-h2 text-h2 text-navy mb-4">{t('missionVision.title')}</h2>
               <div className="w-20 h-1 bg-primary mx-auto"></div>
             </div>
             <div className="grid md:grid-cols-2 gap-12">
               <div className="bg-white p-8 rounded-lg shadow-md">
                 <span className="material-symbols-outlined text-4xl text-primary mb-4" style={{fontVariationSettings: "'FILL' 1"}}>target</span>
-                <h3 className="font-h3 text-h3 text-navy mb-4">Sứ mệnh</h3>
+                <h3 className="font-h3 text-h3 text-navy mb-4">{t('missionVision.mission.title')}</h3>
                 <p className="font-body-md text-on-surface-variant">
-                  Mang đến các giải pháp xây dựng chất lượng cao, bền vững và đáp ứng tối đa nhu cầu của khách hàng. Chúng tôi cam kết xây dựng không chỉ công trình mà còn xây dựng niềm tin và tương lai bền vững.
+                  {t('missionVision.mission.description')}
                 </p>
               </div>
               <div className="bg-white p-8 rounded-lg shadow-md">
                 <span className="material-symbols-outlined text-4xl text-primary mb-4" style={{fontVariationSettings: "'FILL' 1"}}>visibility</span>
-                <h3 className="font-h3 text-h3 text-navy mb-4">Tầm nhìn</h3>
+                <h3 className="font-h3 text-h3 text-navy mb-4">{t('missionVision.vision.title')}</h3>
                 <p className="font-body-md text-on-surface-variant">
-                  Trở thành công ty xây dựng hàng đầu khu vực Đông Nam Á, dẫn dắt xu hướng phát triển bền vững và ứng dụng công nghệ tiên tiến trong ngành xây dựng.
+                  {t('missionVision.vision.description')}
                 </p>
               </div>
             </div>

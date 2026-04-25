@@ -1,0 +1,271 @@
+{
+  "header": {
+    "companyName": "Best South Co., Ltd.",
+    "nav": {
+      "products": "产品",
+      "industrials": "工业",
+      "rd": "研发",
+      "certifications": "认证",
+      "technicalSupport": "技术支持"
+    },
+    "search": {
+      "placeholder": "搜索目录"
+    },
+    "languages": {
+      "vi": "Tiếng Việt",
+      "en": "English",
+      "zh": "中文"
+    }
+  },
+  "footer": {
+    "companyName": "Best South Co., Ltd.",
+    "description": "© 2024 Best South Co., Ltd. 专注于建筑和可持续发展。全球分销和建筑领域的技术卓越。",
+    "sections": {
+      "resources": {
+        "title": "资源",
+        "services": "服务",
+        "projects": "项目",
+        "certifications": "认证"
+      },
+      "activities": {
+        "title": "活动",
+        "recruitment": "招聘",
+        "policies": "政策",
+        "support": "支持"
+      },
+      "headOffice": {
+        "title": "总部",
+        "address": "胡志明市第一郡ABC街123号\n越南"
+      }
+    }
+  },
+  "home": {
+    "hero": {
+      "certified": "ISO 9001:2015 认证",
+      "title": "符合全球工业标准的工程级粘合剂",
+      "description": "为建筑、汽车和组装精密配制的聚合物解决方案。经过极端耐用性和机械稳定性的测试。",
+      "buttons": {
+        "technicalSolutions": "查看技术解决方案",
+        "sdsDatabase": "SDS数据库"
+      }
+    },
+    "products": {
+      "title": "核心产品类别",
+      "cards": {
+        "industrial": {
+          "title": "工业粘合剂",
+          "description": "面向重载工业应用的高性能粘接系统。",
+          "spec1Label": "开放时间",
+          "spec1Value": "8-12 分钟",
+          "spec2Label": "耐热性",
+          "spec2Value": "最高 130C"
+        },
+        "resins": {
+          "title": "先进树脂",
+          "description": "用于涂层、浇注和复合材料制造的工程化树脂组合。",
+          "spec1Label": "化学稳定性",
+          "spec1Value": "ASTM D543 A级",
+          "spec2Label": "批次密度",
+          "spec2Value": "1.18 g/cm3"
+        }
+      }
+    },
+    "rd": {
+      "eyebrow": "能力",
+      "title": "大规模产能与研发卓越",
+      "description": "我们的认证生产线和研发中心可实现更快打样、严格质量控制以及区域化稳定供货。",
+      "stat1Value": "25K+",
+      "stat1Label": "年产吨数",
+      "stat2Value": "12",
+      "stat2Label": "区域实验室",
+      "button": "了解我们的设施"
+    },
+    "compliance": {
+      "title": "严苛质量合规",
+      "subtitle": "每个配方和生产批次均按照国际标准验证。",
+      "items": {
+        "iso": "ISO 认证",
+        "astm": "ASTM 测试",
+        "reach": "REACH 合规",
+        "msds": "MSDS 核验",
+        "rohs": "RoHS 合规"
+      }
+    },
+    "industries": {
+      "eyebrow": "行业",
+      "title": "服务全球产业",
+      "note": "弹性产能，可靠交期。",
+      "cards": {
+        "automotive": {
+          "title": "汽车",
+          "description": "适用于汽车内外饰部件的轻量化粘接系统。"
+        },
+        "construction": {
+          "title": "建筑",
+          "description": "用于幕墙、板材系统与结构接缝的耐候解决方案。"
+        },
+        "assembly": {
+          "title": "装配",
+          "description": "为电子与消费品产线设计的高速粘合方案。"
+        },
+        "aerospace": {
+          "title": "航空航天",
+          "description": "用于舱内材料和非关键部件的高性能聚合物。"
+        },
+        "energy": {
+          "title": "能源",
+          "description": "面向电缆绝缘、模块与公用设施基础建设的化学系统。"
+        },
+        "medical": {
+          "title": "医疗",
+          "description": "适用于一次性器械与无菌包装的生物相容性粘合选项。"
+        }
+      }
+    },
+    "partner": {
+      "title": "与 Best South 合作，获得更优聚合物性能",
+      "description": "与我们的专家沟通，为您的生产目标匹配合适的材料体系。",
+      "primaryButton": "申请技术报价",
+      "secondaryButton": "查看服务"
+    }
+  },
+  "about": {
+    "title": "关于Best South",
+    "history": {
+      "label": "历史",
+      "title": "15年发展历程",
+      "description1": "成立于2009年，Best South经历了15年以上的持续发展。我们从一个小型但充满热情的团队开始，逐渐成为越南领先的建筑公司之一。",
+      "description2": "多年来，我们完成了数百个大大小小的项目，从民用住宅到高端商业建筑，为国家的城市发展做出了贡献。"
+    },
+    "missionVision": {
+      "title": "使命与愿景",
+      "mission": {
+        "title": "使命",
+        "description": "提供高质量、可持续的建筑解决方案，充分满足客户需求。我们致力于不仅建造建筑，还要建造信任和可持续的未来。"
+      },
+      "vision": {
+        "title": "愿景",
+        "description": "成为区域领先的建筑公司，引领可持续发展的趋势，并在建筑行业应用先进技术。"
+      }
+    }
+  },
+  "services": {
+    "title": "我们的服务",
+    "residential": {
+      "badge": "民用",
+      "title": "民用建筑",
+      "description": "我们为住宅项目提供建筑服务，如房屋、公寓、别墅，保证高质量和进度。",
+      "features": [
+        "房屋设计和施工",
+        "高层公寓建设",
+        "装修和改造",
+        "保修和维护"
+      ],
+      "button": "了解更多"
+    },
+    "commercial": {
+      "badge": "商业",
+      "title": "商业建筑",
+      "description": "开发大型商业项目，如办公室、购物中心、酒店，达到国际标准。",
+      "features": [
+        "办公楼",
+        "购物中心",
+        "酒店和度假村",
+        "商业房地产"
+      ],
+      "button": "了解更多"
+    },
+    "industrial": {
+      "badge": "工业",
+      "title": "工业建筑",
+      "description": "使用现代技术和高安全标准建造工业设施，如工厂、仓库、生产设施。",
+      "features": [
+        "制造工厂",
+        "物流仓库",
+        "工业基础设施",
+        "MEP系统"
+      ],
+      "button": "了解更多"
+    }
+  },
+  "contact": {
+    "title": "联系我们",
+    "form": {
+      "label": "联系",
+      "title": "发送消息",
+      "name": "姓名",
+      "email": "邮箱",
+      "phone": "电话号码",
+      "message": "消息内容",
+      "submit": "发送消息",
+      "success": "感谢您联系我们！我们会尽快回复。"
+    },
+    "info": {
+      "title": "联系信息",
+      "address": {
+        "title": "地址",
+        "value": "越南胡志明市第一郡ABC街123号"
+      },
+      "phone": {
+        "title": "电话",
+        "value": "+84 123 456 789"
+      },
+      "email": {
+        "title": "邮箱",
+        "value": "info@bestsouth.vn"
+      },
+      "hours": {
+        "title": "营业时间",
+        "value": "周一 - 周五：8:00 - 17:00\n周六：8:00 - 12:00"
+      }
+    }
+  },
+  "news": {
+    "title": "新闻与活动",
+    "articles": {
+      "1": {
+        "badge": "项目",
+        "date": "2024年4月15日",
+        "title": "高端办公楼项目完成",
+        "description": "Best South正式完成了胡志明市中心25层办公楼项目。",
+        "readMore": "阅读更多"
+      },
+      "2": {
+        "badge": "技术",
+        "date": "2024年4月10日",
+        "title": "应用绿色建筑技术",
+        "description": "Best South率先应用绿色建筑技术，节能环保。",
+        "readMore": "阅读更多"
+      },
+      "3": {
+        "badge": "奖项",
+        "date": "2024年4月5日",
+        "title": "荣获优秀建筑公司奖",
+        "description": "Best South荣幸获得越南建设部2024年度优秀建筑公司奖。",
+        "readMore": "阅读更多"
+      }
+    }
+  },
+  "metadata": {
+    "home": {
+      "title": "Best South - 专业建筑和发展服务",
+      "description": "Best South为全国民用和商业项目提供高质量、可持续的建筑解决方案。"
+    },
+    "about": {
+      "title": "关于 - Best South",
+      "description": "了解Best South的历史、使命和愿景 - 越南领先的建筑公司。"
+    },
+    "services": {
+      "title": "服务 - Best South",
+      "description": "探索Best South的专业建筑服务：民用、商业和工业。"
+    },
+    "contact": {
+      "title": "联系 - Best South",
+      "description": "联系Best South获取您的建筑项目咨询和支持。"
+    },
+    "news": {
+      "title": "新闻 - Best South",
+      "description": "Best South的最新新闻和活动更新。"
+    }
+  }
+}

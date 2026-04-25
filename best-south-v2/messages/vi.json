@@ -1,0 +1,271 @@
+{
+  "header": {
+    "companyName": "Best South Co., Ltd.",
+    "nav": {
+      "products": "Sản phẩm",
+      "industrials": "Công nghiệp",
+      "rd": "Nghiên cứu & Phát triển",
+      "certifications": "Chứng nhận",
+      "technicalSupport": "Hỗ trợ kỹ thuật"
+    },
+    "search": {
+      "placeholder": "TÌM KIẾM DANH MỤC"
+    },
+    "languages": {
+      "vi": "Tiếng Việt",
+      "en": "English",
+      "zh": "中文"
+    }
+  },
+  "footer": {
+    "companyName": "Best South Co., Ltd.",
+    "description": "© 2024 Best South Co., Ltd. Chuyên nghiệp trong xây dựng và phát triển bền vững. Phân phối toàn cầu và xuất sắc kỹ thuật trong lĩnh vực xây dựng.",
+    "sections": {
+      "resources": {
+        "title": "TÀI NGUYÊN",
+        "services": "Dịch vụ",
+        "projects": "Dự án",
+        "certifications": "Chứng nhận"
+      },
+      "activities": {
+        "title": "HOẠT ĐỘNG",
+        "recruitment": "Tuyển dụng",
+        "policies": "Chính sách",
+        "support": "Hỗ trợ"
+      },
+      "headOffice": {
+        "title": "TRỤ SỞ CHÍNH",
+        "address": "123 Đường ABC, Quận 1\nTP.HCM, Việt Nam"
+      }
+    }
+  },
+  "home": {
+    "hero": {
+      "certified": "ISO 9001:2015 CERTIFIED",
+      "title": "Engineering-Grade Adhesives for Global Industrial Standards",
+      "description": "Precision-formulated polymer solutions for construction, automotive, and assembly. Tested for extreme durability and mechanical stability.",
+      "buttons": {
+        "technicalSolutions": "View Technical Solutions",
+        "sdsDatabase": "SDS Database"
+      }
+    },
+    "products": {
+      "title": "Core Product Categories",
+      "cards": {
+        "industrial": {
+          "title": "Industrial Adhesives",
+          "description": "High-performance bonding systems for heavy-duty industrial applications.",
+          "spec1Label": "Open Time",
+          "spec1Value": "8-12 min",
+          "spec2Label": "Heat Resistance",
+          "spec2Value": "up to 130C"
+        },
+        "resins": {
+          "title": "Advanced Resins",
+          "description": "Engineered resin portfolio for coating, casting and composite manufacturing.",
+          "spec1Label": "Chemical Stability",
+          "spec1Value": "ASTM D543 Level A",
+          "spec2Label": "Batch Density",
+          "spec2Value": "1.18 g/cm3"
+        }
+      }
+    },
+    "rd": {
+      "eyebrow": "CAPABILITIES",
+      "title": "High-Volume Production & R&D Excellence",
+      "description": "Our certified manufacturing lines and R&D center empower faster prototyping, strict quality control and scalable supply for regional distribution.",
+      "stat1Value": "25K+",
+      "stat1Label": "Tons Annual Output",
+      "stat2Value": "12",
+      "stat2Label": "Regional Labs",
+      "button": "Explore Our Facility"
+    },
+    "compliance": {
+      "title": "Uncompromising Quality Compliance",
+      "subtitle": "Every formulation and production batch is validated against international standards.",
+      "items": {
+        "iso": "ISO Certified",
+        "astm": "ASTM Tested",
+        "reach": "REACH Compliant",
+        "msds": "MSDS Verified",
+        "rohs": "RoHS Compliant"
+      }
+    },
+    "industries": {
+      "eyebrow": "SECTORS",
+      "title": "Global Industries Served",
+      "note": "Flexible capacity. Reliable lead times.",
+      "cards": {
+        "automotive": {
+          "title": "Automotive",
+          "description": "Lightweight bonding systems for interior and exterior vehicle components."
+        },
+        "construction": {
+          "title": "Construction",
+          "description": "Weather-resistant solutions for facades, panel systems and structural joints."
+        },
+        "assembly": {
+          "title": "Assembly",
+          "description": "High-speed adhesives designed for electronics and consumer goods production."
+        },
+        "aerospace": {
+          "title": "Aerospace",
+          "description": "Performance-grade polymers for cabin materials and non-critical aircraft parts."
+        },
+        "energy": {
+          "title": "Energy",
+          "description": "Chemical systems for cable insulation, modules and utility infrastructure."
+        },
+        "medical": {
+          "title": "Medical",
+          "description": "Biocompatible adhesive options for disposable devices and sterile packaging."
+        }
+      }
+    },
+    "partner": {
+      "title": "Partner with Best South for Superior Polymer Performance",
+      "description": "Consult with our experts to identify the right material system for your production goals.",
+      "primaryButton": "Request Technical Quotation",
+      "secondaryButton": "Explore Services"
+    }
+  },
+  "about": {
+    "title": "Giới thiệu về Best South",
+    "history": {
+      "label": "LỊCH SỮ",
+      "title": "Hành trình Phát triển 15 Năm",
+      "description1": "Thành lập từ năm 2009, Best South đã trải qua hơn 15 năm phát triển không ngừng. Chúng tôi bắt đầu với một đội ngũ nhỏ nhưng đầy nhiệt huyết, và dần trở thành một trong những công ty xây dựng hàng đầu tại Việt Nam.",
+      "description2": "Qua các năm, chúng tôi đã hoàn thành hàng trăm dự án lớn nhỏ, từ nhà ở dân dụng đến các tòa nhà thương mại cao cấp, góp phần vào sự phát triển đô thị của đất nước."
+    },
+    "missionVision": {
+      "title": "Sứ mệnh & Tầm nhìn",
+      "mission": {
+        "title": "Sứ mệnh",
+        "description": "Mang đến các giải pháp xây dựng chất lượng cao, bền vững và đáp ứng tối đa nhu cầu của khách hàng. Chúng tôi cam kết xây dựng không chỉ công trình mà còn xây dựng niềm tin và tương lai bền vững."
+      },
+      "vision": {
+        "title": "Tầm nhìn",
+        "description": "Trở thành công ty xây dựng hàng đầu khu vực, dẫn dắt xu hướng phát triển bền vững và ứng dụng công nghệ tiên tiến trong ngành xây dựng."
+      }
+    }
+  },
+  "services": {
+    "title": "Dịch vụ của chúng tôi",
+    "residential": {
+      "badge": "DÂN DỤNG",
+      "title": "Xây dựng Dân dụng",
+      "description": "Chúng tôi cung cấp dịch vụ thi công các công trình dân dụng như nhà ở, chung cư, biệt thự với chất lượng cao và tiến độ đảm bảo.",
+      "features": [
+        "Thiết kế và thi công nhà ở",
+        "Xây dựng chung cư cao tầng",
+        "Renovation và cải tạo",
+        "Bảo hành và bảo trì"
+      ],
+      "button": "Tìm hiểu thêm"
+    },
+    "commercial": {
+      "badge": "THƯƠNG MẠI",
+      "title": "Xây dựng Thương mại",
+      "description": "Phát triển các dự án thương mại quy mô lớn như văn phòng, trung tâm mua sắm, khách sạn với tiêu chuẩn quốc tế.",
+      "features": [
+        "Tòa nhà văn phòng",
+        "Trung tâm thương mại",
+        "Khách sạn và resort",
+        "Bất động sản thương mại"
+      ],
+      "button": "Tìm hiểu thêm"
+    },
+    "industrial": {
+      "badge": "CÔNG NGHIỆP",
+      "title": "Xây dựng Công nghiệp",
+      "description": "Thi công các công trình công nghiệp như nhà máy, kho bãi, cơ sở sản xuất với công nghệ hiện đại và tiêu chuẩn an toàn cao.",
+      "features": [
+        "Nhà máy sản xuất",
+        "Kho bãi logistics",
+        "Cơ sở hạ tầng công nghiệp",
+        "Hệ thống MEP"
+      ],
+      "button": "Tìm hiểu thêm"
+    }
+  },
+  "contact": {
+    "title": "Liên hệ với chúng tôi",
+    "form": {
+      "label": "LIÊN HỆ",
+      "title": "Gửi tin nhắn",
+      "name": "Họ và tên",
+      "email": "Email",
+      "phone": "Số điện thoại",
+      "message": "Nội dung tin nhắn",
+      "submit": "Gửi tin nhắn",
+      "success": "Cảm ơn bạn đã liên hệ! Chúng tôi sẽ phản hồi sớm nhất có thể."
+    },
+    "info": {
+      "title": "Thông tin liên hệ",
+      "address": {
+        "title": "Địa chỉ",
+        "value": "123 Đường ABC, Quận 1, TP.HCM, Việt Nam"
+      },
+      "phone": {
+        "title": "Điện thoại",
+        "value": "+84 123 456 789"
+      },
+      "email": {
+        "title": "Email",
+        "value": "info@bestsouth.vn"
+      },
+      "hours": {
+        "title": "Giờ làm việc",
+        "value": "Thứ 2 - Thứ 6: 8:00 - 17:00\nThứ 7: 8:00 - 12:00"
+      }
+    }
+  },
+  "news": {
+    "title": "Tin tức và sự kiện",
+    "articles": {
+      "1": {
+        "badge": "DỰ ÁN",
+        "date": "15 THÁNG 4, 2024",
+        "title": "Dự án tòa nhà văn phòng cao cấp hoàn thành",
+        "description": "Best South vừa chính thức hoàn thành dự án tòa nhà văn phòng 25 tầng tại trung tâm thành phố Hồ Chí Minh.",
+        "readMore": "Đọc thêm"
+      },
+      "2": {
+        "badge": "CÔNG NGHỆ",
+        "date": "10 THÁNG 4, 2024",
+        "title": "Áp dụng công nghệ xây dựng xanh",
+        "description": "Best South tiên phong áp dụng các công nghệ xây dựng xanh, tiết kiệm năng lượng và thân thiện môi trường.",
+        "readMore": "Đọc thêm"
+      },
+      "3": {
+        "badge": "GIẢI THƯỞNG",
+        "date": "5 THÁNG 4, 2024",
+        "title": "Nhận giải thưởng công ty xây dựng xuất sắc",
+        "description": "Best South vinh dự nhận giải thưởng Công ty Xây dựng Xuất sắc 2024 từ Bộ Xây dựng Việt Nam.",
+        "readMore": "Đọc thêm"
+      }
+    }
+  },
+  "metadata": {
+    "home": {
+      "title": "Best South - Dịch vụ Xây dựng và Phát triển Chuyên nghiệp",
+      "description": "Best South cung cấp các giải pháp xây dựng chất lượng cao, bền vững cho các dự án dân dụng và thương mại trên toàn quốc."
+    },
+    "about": {
+      "title": "Giới thiệu - Best South",
+      "description": "Tìm hiểu về lịch sử, sứ mệnh và tầm nhìn của Best South - công ty xây dựng hàng đầu Việt Nam."
+    },
+    "services": {
+      "title": "Dịch vụ - Best South",
+      "description": "Khám phá các dịch vụ xây dựng chuyên nghiệp của Best South: dân dụng, thương mại và công nghiệp."
+    },
+    "contact": {
+      "title": "Liên hệ - Best South",
+      "description": "Liên hệ với Best South để được tư vấn và hỗ trợ các dự án xây dựng của bạn."
+    },
+    "news": {
+      "title": "Tin tức - Best South",
+      "description": "Cập nhật tin tức và sự kiện mới nhất từ Best South."
+    }
+  }
+}

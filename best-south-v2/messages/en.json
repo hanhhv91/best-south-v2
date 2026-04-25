@@ -1,0 +1,271 @@
+{
+  "header": {
+    "companyName": "Best South Co., Ltd.",
+    "nav": {
+      "products": "Products",
+      "industrials": "Industrials",
+      "rd": "R&D",
+      "certifications": "Certifications",
+      "technicalSupport": "Technical Support"
+    },
+    "search": {
+      "placeholder": "SEARCH CATALOG"
+    },
+    "languages": {
+      "vi": "Tiếng Việt",
+      "en": "English",
+      "zh": "中文"
+    }
+  },
+  "footer": {
+    "companyName": "Best South Co., Ltd.",
+    "description": "© 2024 Best South Co., Ltd. Professional in construction and sustainable development. Global distribution and technical excellence in the construction industry.",
+    "sections": {
+      "resources": {
+        "title": "RESOURCES",
+        "services": "Services",
+        "projects": "Projects",
+        "certifications": "Certifications"
+      },
+      "activities": {
+        "title": "ACTIVITIES",
+        "recruitment": "Recruitment",
+        "policies": "Policies",
+        "support": "Support"
+      },
+      "headOffice": {
+        "title": "HEAD OFFICE",
+        "address": "123 ABC Street, District 1\nHo Chi Minh City, Vietnam"
+      }
+    }
+  },
+  "home": {
+    "hero": {
+      "certified": "ISO 9001:2015 CERTIFIED",
+      "title": "Engineering-Grade Adhesives for Global Industrial Standards",
+      "description": "Precision-formulated polymer solutions for construction, automotive, and assembly. Tested for extreme durability and mechanical stability.",
+      "buttons": {
+        "technicalSolutions": "View Technical Solutions",
+        "sdsDatabase": "SDS Database"
+      }
+    },
+    "products": {
+      "title": "Core Product Categories",
+      "cards": {
+        "industrial": {
+          "title": "Industrial Adhesives",
+          "description": "High-performance bonding systems for heavy-duty industrial applications.",
+          "spec1Label": "Open Time",
+          "spec1Value": "8-12 min",
+          "spec2Label": "Heat Resistance",
+          "spec2Value": "up to 130C"
+        },
+        "resins": {
+          "title": "Advanced Resins",
+          "description": "Engineered resin portfolio for coating, casting and composite manufacturing.",
+          "spec1Label": "Chemical Stability",
+          "spec1Value": "ASTM D543 Level A",
+          "spec2Label": "Batch Density",
+          "spec2Value": "1.18 g/cm3"
+        }
+      }
+    },
+    "rd": {
+      "eyebrow": "CAPABILITIES",
+      "title": "High-Volume Production & R&D Excellence",
+      "description": "Our certified manufacturing lines and R&D center empower faster prototyping, strict quality control and scalable supply for regional distribution.",
+      "stat1Value": "25K+",
+      "stat1Label": "Tons Annual Output",
+      "stat2Value": "12",
+      "stat2Label": "Regional Labs",
+      "button": "Explore Our Facility"
+    },
+    "compliance": {
+      "title": "Uncompromising Quality Compliance",
+      "subtitle": "Every formulation and production batch is validated against international standards.",
+      "items": {
+        "iso": "ISO Certified",
+        "astm": "ASTM Tested",
+        "reach": "REACH Compliant",
+        "msds": "MSDS Verified",
+        "rohs": "RoHS Compliant"
+      }
+    },
+    "industries": {
+      "eyebrow": "SECTORS",
+      "title": "Global Industries Served",
+      "note": "Flexible capacity. Reliable lead times.",
+      "cards": {
+        "automotive": {
+          "title": "Automotive",
+          "description": "Lightweight bonding systems for interior and exterior vehicle components."
+        },
+        "construction": {
+          "title": "Construction",
+          "description": "Weather-resistant solutions for facades, panel systems and structural joints."
+        },
+        "assembly": {
+          "title": "Assembly",
+          "description": "High-speed adhesives designed for electronics and consumer goods production."
+        },
+        "aerospace": {
+          "title": "Aerospace",
+          "description": "Performance-grade polymers for cabin materials and non-critical aircraft parts."
+        },
+        "energy": {
+          "title": "Energy",
+          "description": "Chemical systems for cable insulation, modules and utility infrastructure."
+        },
+        "medical": {
+          "title": "Medical",
+          "description": "Biocompatible adhesive options for disposable devices and sterile packaging."
+        }
+      }
+    },
+    "partner": {
+      "title": "Partner with Best South for Superior Polymer Performance",
+      "description": "Consult with our experts to identify the right material system for your production goals.",
+      "primaryButton": "Request Technical Quotation",
+      "secondaryButton": "Explore Services"
+    }
+  },
+  "about": {
+    "title": "About Best South",
+    "history": {
+      "label": "HISTORY",
+      "title": "15 Years of Development Journey",
+      "description1": "Established in 2009, Best South has gone through more than 15 years of continuous development. We started with a small but passionate team, and gradually became one of the leading construction companies in Vietnam.",
+      "description2": "Over the years, we have completed hundreds of projects of all sizes, from residential housing to high-end commercial buildings, contributing to the urban development of the country."
+    },
+    "missionVision": {
+      "title": "Mission & Vision",
+      "mission": {
+        "title": "Mission",
+        "description": "To provide high-quality, sustainable construction solutions that fully meet customer needs. We are committed to building not only structures but also trust and a sustainable future."
+      },
+      "vision": {
+        "title": "Vision",
+        "description": "To become the leading construction company in the region, leading the trend of sustainable development and applying advanced technology in the construction industry."
+      }
+    }
+  },
+  "services": {
+    "title": "Our Services",
+    "residential": {
+      "badge": "RESIDENTIAL",
+      "title": "Residential Construction",
+      "description": "We provide construction services for residential projects such as houses, apartments, villas with high quality and guaranteed progress.",
+      "features": [
+        "House design and construction",
+        "High-rise apartment construction",
+        "Renovation and remodeling",
+        "Warranty and maintenance"
+      ],
+      "button": "Learn More"
+    },
+    "commercial": {
+      "badge": "COMMERCIAL",
+      "title": "Commercial Construction",
+      "description": "Developing large-scale commercial projects such as offices, shopping centers, hotels with international standards.",
+      "features": [
+        "Office buildings",
+        "Shopping centers",
+        "Hotels and resorts",
+        "Commercial real estate"
+      ],
+      "button": "Learn More"
+    },
+    "industrial": {
+      "badge": "INDUSTRIAL",
+      "title": "Industrial Construction",
+      "description": "Constructing industrial facilities such as factories, warehouses, production facilities with modern technology and high safety standards.",
+      "features": [
+        "Manufacturing plants",
+        "Logistics warehouses",
+        "Industrial infrastructure",
+        "MEP systems"
+      ],
+      "button": "Learn More"
+    }
+  },
+  "contact": {
+    "title": "Contact Us",
+    "form": {
+      "label": "CONTACT",
+      "title": "Send Message",
+      "name": "Full Name",
+      "email": "Email",
+      "phone": "Phone Number",
+      "message": "Message Content",
+      "submit": "Send Message",
+      "success": "Thank you for contacting us! We will respond as soon as possible."
+    },
+    "info": {
+      "title": "Contact Information",
+      "address": {
+        "title": "Address",
+        "value": "123 ABC Street, District 1, Ho Chi Minh City, Vietnam"
+      },
+      "phone": {
+        "title": "Phone",
+        "value": "+84 123 456 789"
+      },
+      "email": {
+        "title": "Email",
+        "value": "info@bestsouth.vn"
+      },
+      "hours": {
+        "title": "Business Hours",
+        "value": "Monday - Friday: 8:00 - 17:00\nSaturday: 8:00 - 12:00"
+      }
+    }
+  },
+  "news": {
+    "title": "News & Events",
+    "articles": {
+      "1": {
+        "badge": "PROJECT",
+        "date": "APRIL 15, 2024",
+        "title": "High-end office building project completed",
+        "description": "Best South has officially completed the 25-story office building project in the center of Ho Chi Minh City.",
+        "readMore": "Read More"
+      },
+      "2": {
+        "badge": "TECHNOLOGY",
+        "date": "APRIL 10, 2024",
+        "title": "Applying green construction technology",
+        "description": "Best South pioneers the application of green construction technologies, energy-saving and environmentally friendly.",
+        "readMore": "Read More"
+      },
+      "3": {
+        "badge": "AWARD",
+        "date": "APRIL 5, 2024",
+        "title": "Received outstanding construction company award",
+        "description": "Best South is honored to receive the 2024 Outstanding Construction Company Award from the Ministry of Construction of Vietnam.",
+        "readMore": "Read More"
+      }
+    }
+  },
+  "metadata": {
+    "home": {
+      "title": "Best South - Professional Construction and Development Services",
+      "description": "Best South provides high-quality, sustainable construction solutions for residential and commercial projects nationwide."
+    },
+    "about": {
+      "title": "About - Best South",
+      "description": "Learn about the history, mission and vision of Best South - Vietnam's leading construction company."
+    },
+    "services": {
+      "title": "Services - Best South",
+      "description": "Explore Best South's professional construction services: residential, commercial and industrial."
+    },
+    "contact": {
+      "title": "Contact - Best South",
+      "description": "Contact Best South for consultation and support for your construction projects."
+    },
+    "news": {
+      "title": "News - Best South",
+      "description": "Latest news and events updates from Best South."
+    }
+  }
+}

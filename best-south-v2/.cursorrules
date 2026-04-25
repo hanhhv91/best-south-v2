@@ -1,0 +1,56 @@
+# Cursor Rules for Best South Website
+
+## Project Context
+- Multi-language website for chemical manufacturing company
+- Next.js 16.2.4 with App Router
+- TypeScript, Tailwind CSS, next-intl
+- Vietnamese (default), English, Chinese Simplified
+
+## Critical Rules
+
+### 1. Component Architecture
+- **NEVER** put `generateMetadata` in client components
+- **ALWAYS** separate server and client components
+- Server components for metadata, client components for hooks
+
+### 2. Internationalization
+- Use `getTranslations()` in server components
+- Use `useTranslations()` in client components
+- Always await `params` in Next.js 15+ dynamic routes
+
+### 3. File Structure
+- Keep server/client components in separate files
+- Follow PascalCase for components, camelCase for functions
+- Use established folder structure
+
+### 4. Code Quality
+- TypeScript strict mode
+- ESLint compliance
+- Test builds with `npm run build`
+- Follow Tailwind utility classes
+
+## Common Patterns
+
+### Page Structure
+```typescript
+// page.tsx (server)
+import PageClient from './PageClient';
+export async function generateMetadata() { /* server-side */ }
+export default function Page() { return <PageClient />; }
+
+// PageClient.tsx (client)
+'use client';
+export default function PageClient() { /* hooks here */ }
+```
+
+### Translation Usage
+```typescript
+// Server: getTranslations({ locale, namespace: 'metadata' })
+// Client: useTranslations('namespace')
+```
+
+## Error Prevention
+- Check translation keys exist
+- Verify import paths
+- Test after changes
+- Follow AGENTS.md and CLAUDE.md guidelines
